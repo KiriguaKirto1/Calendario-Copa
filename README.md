@@ -62,9 +62,8 @@ Calendario-da-Copa-2026/
 ├── abrir_app.bat
 ├── requirements.txt
 ├── README.md
+├── index.html
 │
-├── calendario_copa_2026_html_v4.html
-├── abrir_html_v4.bat
 │
 ├── data/
 │   ├── dados_copa.json
